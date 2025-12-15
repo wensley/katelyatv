@@ -1,6 +1,91 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "suoniapi": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "TV-索尼资源",
+      "detail": ""
+    },
+    "hongniuzy2": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "TV-红牛资源",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "TV-茅台资源",
+      "detail": "https://caiji.maotaizy.cc"
+    },
+    "huyaapi": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "TV-虎牙资源",
+      "detail": "https://www.huyaapi.com"
+    },
+    "dbzy_caiji": {
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "name": "TV-豆瓣资源",
+      "detail": "https://caiji.dbzy.tv"
+    },
+    "dbzy": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "TV-豆瓣资源",
+      "detail": "https://dbzy.tv"
+    },
+    "hhzyapi": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "TV-豪华资源",
+      "detail": "https://hhzyapi.com"
+    },
+    "subocaiji": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "TV-速博资源",
+      "detail": ""
+    },
+    "lziapi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "TV-量子资源",
+      "detail": ""
+    },
+    "jinyingzy": {
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "name": "TV-金鹰点播",
+      "detail": "https://jinyingzy.com"
+    },
+    "jyzyapi": {
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "name": "TV-金鹰资源",
+      "detail": "https://jyzyapi.com"
+    },
+    "sdzyapi": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "TV-闪电资源",
+      "detail": "https://sdzyapi.com"
+    },
+    "ffzyapi": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "TV-非凡资源",
+      "detail": "https://cj.ffzyapi.com"
+    },
+    "p2100": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "TV-飘零资源",
+      "detail": "https://p2100.net"
+    },
+    "mozhuazy": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "TV-魔爪资源",
+      "detail": "https://mozhuazy.com"
+    },
+    "moduapi": {
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "name": "TV-魔都动漫",
+      "detail": "https://caiji.moduapi.cc"
+    },
+    "mdzyapi": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "TV-魔都资源",
+      "detail": "https://www.mdzyapi.com"
+    },
     "hnzy": {
       "api": "https://hnzyapi.com/api.php/provide/vod",
       "name": "火鸟资源",
